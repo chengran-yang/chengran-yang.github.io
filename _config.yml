@@ -23,7 +23,7 @@ repository               : "autumn-city/autumn-city.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Chengran Yang"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : "CS Ph.D. Candidate in Singapore Management University"
   location         : "Singapore"
