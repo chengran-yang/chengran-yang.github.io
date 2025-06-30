@@ -20,24 +20,34 @@ I have 14 publications in top-tier software engineering venues, e.g., ICSE, ASE,
 + May. 2025 "R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation" ranked top-3 most liked papers in the Software Engineering category on the Alphaxiv platform.
 + May. 2025 "ACECode: A Reinforcement Learning Framework for Aligning Code Efficiency and Correctness in Code Language Models" got a major revision by TOSEM
 
-
-## Recent Work (2 yrs)
+## Lead Contributions (Last 2 Years)
 
 <ul>
   {% assign pubs = site.publications | sort: 'date' | reverse %}
   {% for pub in pubs %}
-    <li>
-      <strong>{{ pub.title }}</strong><br/>
-      {% if pub.author %}<em>{{ pub.author }}</em><br/>{% endif %}
-      {{ pub.venue }}{% if pub.year %}, {{ pub.year }}{% endif %}
-      {% if pub.paperurl %} [<a href="{{ pub.paperurl }}">PDF</a>]{% endif %}
-    </li>
+    {% assign authors = pub.author | split: "," %}
+    {% assign first_author = authors[0] | strip %}
+    {% assign second_author = authors[1] | strip %}
+
+    {% if first_author contains "Chengran Yang" or second_author contains "Chengran Yang" %}
+      <li>
+        <strong>{{ pub.title }}</strong><br/>
+        {% if pub.author %}
+          <em>
+            {{ pub.author | replace: "Chengran Yang", "<strong>Chengran Yang</strong>" }}
+          </em><br/>
+        {% endif %}
+        {{ pub.venue }}{% if pub.year %}, {{ pub.year }}{% endif %}
+        {% if pub.paperurl %} [<a href="{{ pub.paperurl }}">PDF</a>]{% endif %}
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
 
-## Service 
+## Service
 
 PC Member:
+
 + MSR 2023 (junior PC)
 + APSEC2023 (Student Research Competition)
 
