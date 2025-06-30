@@ -21,7 +21,7 @@ I have 14 publications in top-tier software engineering venues, e.g., ICSE, ASE,
 + May. 2025 "ACECode: A Reinforcement Learning Framework for Aligning Code Efficiency and Correctness in Code Language Models" got a major revision by TOSEM
 
 
-## Recent Publications since 2024
+## Recent Work (from 2024)
 
 <ul>
   {% assign pubs = site.publications | sort: 'date' | reverse %}
