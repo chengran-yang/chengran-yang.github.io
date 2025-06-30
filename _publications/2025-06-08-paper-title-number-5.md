@@ -1,13 +1,28 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
----
+permalink: https://arxiv.org/abs/2504.04699
+venue: 'Under Submission'
+citation: Martin Weyssow, Chengran Yang, Junkai Chen, Yikun Li, Huihui Huang, Ratnadira Widyasari, Han Wei Ang, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, David Lo
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+---
+Using [MathJax](https://www.mathjax.org/) in the description is supported - 
+
+$$
+E=mc^2
+$$
+
+ - however, the use must be mindful that the default delimiters are 
+
+`$$...$$`
+
+ and
+
+`\\[...\\]`
+
+ which differs from the 
+
+`$...$`
+
+ that is typically expected.
