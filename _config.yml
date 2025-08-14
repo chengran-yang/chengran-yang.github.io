@@ -13,9 +13,9 @@ title                    : "Chengran's Homepage"
 title_separator          : "-"
 name                     : &name "Chengran"
 description              : &description "personal description"
-url                      : https://autumn-city.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://chengran-yang.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "autumn-city/autumn-city.github.io"
+repository               : "chengran-yang/chengran-yang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -32,7 +32,7 @@ author:
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=7Ms5Qs4AAAAJ"
   # Repositories and software development
-  github           : "autumn-city"
+  github           : "chengran-yang"
 
 
   # Social media
@@ -45,7 +45,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Recent Papers since 2024'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
