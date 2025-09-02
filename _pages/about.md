@@ -29,19 +29,19 @@ I have 14 publications in top-tier software engineering venues, e.g., ICSE, ASE,
     {% assign first_author = authors[0] | strip %}
     {% assign second_author = authors[1] | strip %}
 
-    {% if first_author contains "Chengran Yang" or second_author contains "Chengran Yang" %}
-      <li>
-        <strong>{{ pub.title }}</strong><br/>
+    {% if first_author contains "Chengran Yang" or second_author contains "Chengran Yang" %}`<li>`
+        `<strong>`{{ pub.title }}`</strong><br/>`
         {% if pub.author %}
-          <em>
-            {{ pub.author | replace: "Chengran Yang", "<strong>Chengran Yang</strong>" }}
-          </em><br/>
+          `<em>`
+            {{ pub.author | replace: "Chengran Yang", "`<strong>`Chengran Yang`</strong>`" }}
+          `</em><br/>`
         {% endif %}
         {{ pub.venue }}{% if pub.year %}, {{ pub.year }}{% endif %}
-        {% if pub.paperurl %} [<a href="{{ pub.paperurl }}">PDF</a>]{% endif %}
-      </li>
+        {% if pub.paperurl %} [`<a href="{{ pub.paperurl }}">`PDF`</a>`]{% endif %}
+      `</li>`
     {% endif %}
   {% endfor %}
+
 </ul>
 
 ## Service
@@ -57,3 +57,4 @@ Reviewer:
 + Neurocomputing
 + TOSEM
 + CSAE
++ EMSE
