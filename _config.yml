@@ -22,10 +22,10 @@ repository               : "chengran-yang/chengran-yang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "selfish.jpg"
   name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "CS Ph.D. Candidate in Singapore Management University"
+  bio              : "Postdoctoral Researcher at Singapore Management University"
   location         : "Singapore"
   email            : "cryang@smu.edu.sg" 
 

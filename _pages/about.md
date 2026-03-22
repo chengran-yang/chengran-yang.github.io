@@ -6,20 +6,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Chengran Yang, a fourth-year Ph.D. Candidate at the School of Computing and Information Systems (SCIS), [Singapore Management University (SMU)](https://www.smu.edu.sg), working under the supervision of [Professor David Lo](http://www.mysmu.edu/faculty/davidlo/) (ACM & IEEE Fellow). My research lies at the intersection of **Software Engineering (SE)** and **Artificial Intelligence (AI)**, focusing on **Harnessing SE Community Knowledge for Developer-Centric Code Intelligence**. My work targets two primary directions:
+I'm Chengran Yang (杨诚然), a Postdoctoral Researcher at Singapore Management University (SMU), working with Prof. David Lo (ACM & IEEE Fellow). I received my Ph.D. from SMU under supervision of Prof. David Lo in March 2026.
 
-* (1) **Improving Code Quality and Security in AI-driven Systems**, specifically focusing on code correctness, runtime efficiency, and vulnerability detection;
-* (2) **Integrating Intelligent Assistants into Developer Workflows**, enabling automated and intelligent support for developer activities, such as automated question answering, documentation generation, and structured code reasoning.
+My research centers on **LLM Post-Training (SFT / RL) for Code Intelligence and Software Security**. I work on making Code LLMs not just *generate* code, but generate code that is correct, efficient, secure, and well-reasoned — bridging the gap between raw generative capability and production-grade software quality. Concretely, my work spans two threads:
 
-I have 20+ publications in top-tier software engineering venues, e.g., ICSE, ASE, TSE, and TOSEM, and received the ACM SIGSOFT Distinguished Paper Award at ICSE 2026. Before my doctoral studies, I earned my bachelor's degree from the University of Electronic Science and Technology of China (UESTC) and interned at the Institute of Computing Technology, Chinese Academy of Sciences, under the supervision of Prof. Jianfeng Zhan.
+* (1) **Enhancing Functional and Non-Functional Properties of Code LLMs** — aligning models toward code correctness, runtime efficiency, security (vulnerability detection & repair), and structured reasoning via post-training;
+* (2) **Mining and Distilling Developer Knowledge into LLMs** — leveraging SE community artifacts (Q&A forums, code reviews, documentation) to teach models human-like development reasoning and workflows.
+
+I have published 20+ papers at top-tier SE venues (ICSE, ASE, FSE, TSE, TOSEM, etc.), including an **ACM SIGSOFT Distinguished Paper Award** at ICSE 2026 as first author. 
+
+Prior to SMU, I received my B.Eng. from the University of Electronic Science and Technology of China (UESTC) and interned at the Institute of Computing Technology, Chinese Academy of Sciences, supervised by Prof. Jianfeng Zhan.
+
+🔭 **I'm currently exploring agentic post-training for code security and code testing — if these topics interest you too, feel free to [reach out](mailto:cryang@smu.edu.sg) for collaboration!**
+
 
 ## News
 
-* **🏆 Mar. 2026** "Think Like Human Developers: Harnessing Community Knowledge for Structured Code Reasoning" received the **ACM SIGSOFT Distinguished Paper Award** at ICSE 2026!
-* Mar. 2026 "Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?" got accepted by ICSE 2026
-* Jan. 2026 Received the Google Cloud Research Grant to support our research on code intelligence and security
-* Sep. 2025 "Token Sugar: Making Source Code Sweeter for LLMs through Token-Efficient Shorthand" got accepted by ASE 2025
-* Jun. 2025 "Think Like Human Developers: Harnessing Community Knowledge for Structured Code Reasoning" got accepted by ICSE 2026
-* Jun. 2025 "APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation" got accepted by ICSME 2025
-* May. 2025 "R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation" ranked top-3 most liked papers in the Software Engineering category on the Alphaxiv platform.
-* May. 2025 "ACECode: A Reinforcement Learning Framework for Aligning Code Efficiency and Correctness in Code Language Models" got a major revision by TOSEM
+* 🏆 Mar. 2026 &nbsp; "Think Like Human Developers: Harnessing Community Knowledge for Structured Code Reasoning" received the **ACM SIGSOFT Distinguished Paper Award** at ICSE 2026!
+* 📄 Mar. 2026 &nbsp; "Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?" accepted by **ICSE 2026**
+* 💰 Mar. 2026 &nbsp; Received the **Google Cloud Research Grant** to support our research on code intelligence and security
+* 📄 Sep. 2025 &nbsp; "Token Sugar: Making Source Code Sweeter for LLMs through Token-Efficient Shorthand" accepted by **ASE 2025**
+* 📄 Jun. 2025 &nbsp; "Think Like Human Developers" accepted by **ICSE 2026**
+* 📄 Jun. 2025 &nbsp; "APIDocBooster" accepted by **ICSME 2025**
+* 🔥 May. 2025 &nbsp; "R2Vul" ranked **top-3 most liked** papers in SE on the Alphaxiv platform
+* 📄 May. 2025 &nbsp; "ACECode" received major revision from **TOSEM**
