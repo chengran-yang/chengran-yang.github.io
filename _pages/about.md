@@ -19,10 +19,10 @@ Prior to SMU, I received my B.Eng. from the University of Electronic Science and
 
 
 ## News
-
+* 📄 **Mar. 2026** &nbsp; Two papers have been accepted by FSE 2026
 * 🏆 **Mar. 2026** &nbsp; "Think Like Human Developers: Harnessing Community Knowledge for Structured Code Reasoning" received the <span style="color: red;">**ACM SIGSOFT Distinguished Paper Award**</span> at ICSE 2026!
 * 📄 **Mar. 2026** &nbsp; "Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?" accepted by ICSE 2026
-* 💰 **Mar. 2026** &nbsp; Received the Google Cloud Research Grant to support our research on code intelligence and security
+* 💰 Mar. 2026 &nbsp; Received the Google Cloud Research Grant to support our research on code intelligence and security
 * 📄 Sep. 2025 &nbsp; "Token Sugar: Making Source Code Sweeter for LLMs through Token-Efficient Shorthand" accepted by ASE 2025
 * 📄 Jun. 2025 &nbsp; "Think Like Human Developers" accepted by ICSE 2026
 * 📄 Jun. 2025 &nbsp; "APIDocBooster" accepted by ICSME 2025
