@@ -12,7 +12,7 @@ My research centers on **LLM Post-Training (SFT / RL) for Code Intelligence and 
 * (1) **Enhancing Functional and Non-Functional Properties of Code LLMs** — aligning models toward code correctness, runtime efficiency, security (vulnerability detection & repair), and structured reasoning via post-training;
 * (2) **Mining and Distilling Developer Knowledge into LLMs** — leveraging SE community artifacts (Q&A forums, code reviews, documentation) to teach models human-like development reasoning and workflows.
 
-I have published 20+ papers at top-tier SE venues (ICSE, ASE, FSE, TSE, TOSEM, etc.), including an ACM SIGSOFT Distinguished Paper Award at ICSE 2026 as first author. 
+I have published 30+ papers at top-tier SE venues (ICSE, ASE, FSE, TSE, TOSEM, etc.), including an ACM SIGSOFT Distinguished Paper Award at ICSE 2026 as first author. 
 Prior to SMU, I received my B.Eng. from the University of Electronic Science and Technology of China (UESTC) and interned at the Institute of Computing Technology, Chinese Academy of Sciences, supervised by Prof. Jianfeng Zhan.
 
 🔭 **I'm currently exploring agentic post-training for code security and code testing — if these topics interest you too, feel free to [reach out](mailto:cryang@smu.edu.sg) for collaboration!**
