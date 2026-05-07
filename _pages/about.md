@@ -20,10 +20,10 @@ Prior to SMU, I received my B.Eng. from the University of Electronic Science and
 
 ## News
 * 📄 Apr. 2026 &nbsp; One paper has been accepted by ICML 2026 (as first author)
-* 📄 Apr. 2026 &nbsp; One paper has been accepted by ISSTA 2026 (as Corresponding author)
+* 📄 Apr. 2026 &nbsp; One paper has been accepted by ISSTA 2026 (as corresponding author)
 * 🏆 Apr. 2026 &nbsp; My First-authored ACL paper has been selected as <span style="color: red;">**Best Paper Candidate**</span>
 * 📄 Apr. 2026 &nbsp; Two papers have been accepted by ACL 2026 (2*main conferences, one as first author, one as corresponding author) 
-* 📄 Mar. 2026 &nbsp; Two papers have been accepted by FSE 2026 (One as Corresponding author)
+* 📄 Mar. 2026 &nbsp; Two papers have been accepted by FSE 2026 (one as corresponding author)
 * 🏆 Mar. 2026 &nbsp; "Think Like Human Developers: Harnessing Community Knowledge for Structured Code Reasoning" received the <span style="color: red;">**ACM SIGSOFT Distinguished Paper Award**</span> at ICSE 2026!
 * 📄 Mar. 2026 &nbsp; "Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?" accepted by ICSE 2026
 * 💰 Mar. 2026 &nbsp; Received the Google Cloud Research Grant to support our research on code intelligence and security
@@ -31,4 +31,4 @@ Prior to SMU, I received my B.Eng. from the University of Electronic Science and
 * 📄 Jun. 2025 &nbsp; "Think Like Human Developers" accepted by ICSE 2026
 * 📄 Jun. 2025 &nbsp; "APIDocBooster" accepted by ICSME 2025
 * 🔥 May. 2025 &nbsp; "R2Vul" ranked top-3 most liked papers in SE on the Alphaxiv platform
-* 📄 May. 2025 &nbsp; "ACECode" received major revision from TOSEM
+* 📄 May. 2025 &nbsp; "ACECode" received a major revision from TOSEM
