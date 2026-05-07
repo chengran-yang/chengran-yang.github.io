@@ -102,7 +102,7 @@ A complete list is available on my <a href="https://scholar.google.com/citations
     <span class="pub-authors">
       Zhensu Sun, Zhihao Lin, Zhi Chen, <strong>Chengran Yang*</strong>, Mingyi Zhou, Li Li, David Lo.
     </span><br/>
-    <span class="pub-venue">Under Submission</span>. <span class="pub-note">* Sole corresponding author.</span>
+    <span class="pub-venue">Under Submission</span>. <span class="pub-note">* corresponding author.</span>
   </li>
 
 </ol>
@@ -116,7 +116,7 @@ A complete list is available on my <a href="https://scholar.google.com/citations
       <a href="https://arxiv.org/abs/2504.04699">R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation</a>
     </span><br/>
     <span class="pub-authors">
-      <strong>Chengran Yang<sup>#</sup></strong>, Martin Weyssow, Junkai Chen, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Huu Hung Nguyen, Yan Naing Tun, Tan Bui, Yikun Li, Han Wei Ang, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, David Lo.
+      Martin Weyssow, <strong>Chengran Yang<sup>#</sup></strong>, Junkai Chen, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Huu Hung Nguyen, Yan Naing Tun, Tan Bui, Yikun Li, Han Wei Ang, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, David Lo.
     </span><br/>
     <span class="pub-venue">In Revision, TOSEM</span> (CCF-A). <span class="pub-note"># Co-first author. Top-3 most-liked SE paper on alphaXiv.</span>
   </li>
